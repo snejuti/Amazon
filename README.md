@@ -1,2 +1,2 @@
-# Amazon
-Replica of Amazon Website using HTML &amp; CSS
+#Project
+Replica of a Website using HTML &amp; CSS
